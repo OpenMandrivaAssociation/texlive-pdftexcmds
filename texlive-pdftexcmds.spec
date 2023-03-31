@@ -1,6 +1,6 @@
 Name:		texlive-pdftexcmds
 Version:	55777
-Release:	1
+Release:	2
 Summary:	LuaTeX support for pdfTeX utility functions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdftexcmds
