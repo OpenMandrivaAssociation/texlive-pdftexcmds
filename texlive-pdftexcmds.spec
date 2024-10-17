@@ -3,7 +3,7 @@ Version:	55777
 Release:	2
 Summary:	LuaTeX support for pdfTeX utility functions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdftexcmds
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pdftexcmds
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdftexcmds.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdftexcmds.doc.r%{version}.tar.xz
